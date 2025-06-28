@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Landing","order":1,"parentId":0,"scrollX":491,"scrollY":348},
+{"id":2,"expanded":true,"name":"5 Regions","order":2,"parentId":0,"scrollX":2976,"scrollY":3422},
+{"id":3,"expanded":true,"name":"Gu Yue Village","order":3,"parentId":2,"scrollX":736.5,"scrollY":540},
+{"id":4,"expanded":false,"name":"House 1","order":5,"parentId":3,"scrollX":736.5,"scrollY":402},
+{"id":5,"expanded":false,"name":"Support Beams room","order":4,"parentId":3,"scrollX":841.7142857142857,"scrollY":473.1428571428571},
+{"id":6,"expanded":false,"name":"Awakening Cave","order":6,"parentId":3,"scrollX":895.5,"scrollY":841.5},
+{"id":7,"expanded":true,"name":"Normal Town","order":7,"parentId":3,"scrollX":748.5,"scrollY":1504.5}
+]
